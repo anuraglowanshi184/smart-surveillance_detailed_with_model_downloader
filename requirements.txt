@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+flask==2.3.2
+streamlit
+numpy
+pandas
+pillow
+pyyaml
+moviepy
+requests
+python-dotenv

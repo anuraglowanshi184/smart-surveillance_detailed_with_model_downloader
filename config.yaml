@@ -1,0 +1,4 @@
+camera_source: 0
+yolo_model: models/yolov8n.pt
+restricted_zones: assets/zones.json
+alert_method: email
